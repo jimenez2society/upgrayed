@@ -1,10 +1,10 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-# trooni
+# Upgrayed
 
 ## Description
 
-### Landing page for web dev company
+### Upgrayed is a professional reademe.md file generator
 
 ## Installation
 
@@ -12,7 +12,7 @@
 
 ## Usage
 
-### npm start to run locally
+### npm start to run locally and answer the questions to create a readme file in the main directory
 
 ## Contribution
 
@@ -20,9 +20,9 @@
 
 ## Test
 
-### unit test
+### unit tests
 
 ## Questsions
 
-- test@gmail.com
-- [https://www.github.com](https://www.github.com)
+- coreyjimenez@gmail.com
+- [https://github.com/jimenez2society](https://github.com/jimenez2society)
